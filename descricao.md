@@ -15,9 +15,13 @@ A API do Portal da Transparência fornece diferentes endpoints para acessar dife
 - Através do Athena será possível consultar e fazer as análises dos dados salvos
 - O Quicksight será usado para visualizar os resultados das análises feitas com o Athena
 
-## Serviços da AWS
+## Serviços
 - Event Bridge
 - Lambda
 - S3
 - Athena
 - Quicksight
+
+## Arquitetura
+
+![image](https://user-images.githubusercontent.com/80830498/217415517-95695286-dc1e-4ddc-aae5-99b21cbe70dc.png)
