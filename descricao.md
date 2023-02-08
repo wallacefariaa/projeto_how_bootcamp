@@ -7,8 +7,8 @@ O objetivo deste projeto é criar uma plataforma de análise de dados que permit
 O setor público tem uma responsabilidade enorme em garantir que os recursos públicos sejam utilizados de forma eficiente e efetiva para atender às necessidades da sociedade. No entanto, muitas vezes, é difícil obter informações claras e precisas sobre como os recursos públicos são gastos. O objetivo deste projeto é fornecer insights sobre os gastos públicos de uma forma acessível e fácil de entender para a sociedade.
 
 ## Serviços da AWS
-Lambda
-Event Bridge
-S3
-Athena
-Quicksight
+- Lambda
+- Event Bridge
+- S3
+- Athena
+- Quicksight
